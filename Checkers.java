@@ -1,11 +1,5 @@
 package org.cis120.checkers;
 
-/*
- * CIS 120 HW09 - TicTacToe Demo
- * (c) University of Pennsylvania
- * Created by Bayley Tuch, Sabrina Green, and Nicolas Corona in Fall 2020.
- */
-
 import java.awt.*;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
